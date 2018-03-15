@@ -8,4 +8,8 @@ a:hover{
 }
 #tabs > ul > a > li{
   float:left;
+  padding-right: 5px;
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
 }
