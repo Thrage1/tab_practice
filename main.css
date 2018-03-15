@@ -1,0 +1,11 @@
+a{
+  list-style: none;
+  text-decoration: none;
+  color:black;
+}
+a:hover{
+  cursor: pointer;
+}
+#tabs > ul > a > li{
+  float:left;
+}
