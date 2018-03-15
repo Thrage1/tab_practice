@@ -13,3 +13,12 @@ a:hover{
   border-left: 2px solid black;
   border-right: 2px solid black;
 }
+#tab1{
+  background: lightgreen;
+}
+#tab2{
+  background: lightblue;
+}
+#tab3{
+  background: #336699;
+}
