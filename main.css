@@ -20,5 +20,16 @@ a:hover{
   background: lightblue;
 }
 #tab3{
-  background: #336699;
+  background: #996633;
+}
+#container{
+  border: 2px solid black;
+}
+.active{
+  border-bottom: 2px solid white;
+  top: -2px;
+  z-index: 3px;
+}
+#tabs{
+  border:2px solid white;
 }

@@ -8,11 +8,10 @@ window.onload = function(){
   for(var i = 0; i < tabLinks.length; i++){
     tabLinks[i].onclick = function(){
       displayPanel(this);
-      return false;
+
     };
     tabLinks[i].onfocus = function(){
       displayPanel(this);
-      return false;
     };
   }
 function displayPanel(tabToActivate){
